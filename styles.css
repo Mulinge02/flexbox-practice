@@ -7,7 +7,11 @@ body{
   flex-direction:row;
   justify-content:space-between;
   align-items:center;
-  
+}
+.header .links{
+  display: flex;
+  flex-direction:row;
+  justify-content:space-around;
 }
 .page{
   background:#090d16;
