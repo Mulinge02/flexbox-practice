@@ -1,5 +1,7 @@
 body{
   background: black;
+}
+ .header{
   display: flex;
   flex-direction:row;
 }
