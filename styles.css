@@ -33,7 +33,8 @@ main{
 }
 #sign-up{
   border-radius:3px;
-  color:green;
+  color:black;
+  background:green;
 }
 #sign-up:hover{
   color:brown;
