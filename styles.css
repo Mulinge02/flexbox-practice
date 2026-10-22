@@ -37,8 +37,8 @@ main{
   background:green;
 }
 #sign-up:hover{
-  color:brown;
+  background:brown;
 }
 #sign-up:active{
-  color:blue;
+  background:blue;
 }
