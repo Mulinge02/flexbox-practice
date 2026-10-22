@@ -32,7 +32,12 @@ main{
   align-items:center;
 }
 #sign-up{
+  border-radius:3px;
   color:green;
-  hover:brown:
-  active:blue;
+}
+#sign-up:hover{
+  color:brown;
+}
+#sign-up:active{
+  color:blue;
 }
