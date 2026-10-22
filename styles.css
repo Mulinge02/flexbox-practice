@@ -18,6 +18,8 @@ main{
   align-items:center;
 }
 .header .links{
+  display:flex;
+  flex-direction:row;
   column-gap:5px;
 }
 .page{
